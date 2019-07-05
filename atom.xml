@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-05T10:36:51.247Z</updated>
+    <updated>2019-07-05T10:38:48.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -29,6 +29,13 @@
         <link href="https://nathanielguo.github.io/post/about">
         </link>
         <updated>2019-07-05T10:07:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第一天]]></title>
+        <id>https://nathanielguo.github.io/post/2019-7-3</id>
+        <link href="https://nathanielguo.github.io/post/2019-7-3">
+        </link>
+        <updated>2019-07-04T10:37:02.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[谈谈 iPad]]></title>
