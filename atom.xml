@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-05T13:41:23.025Z</updated>
+    <updated>2019-07-05T13:46:47.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -37,6 +37,13 @@
         <link href="https://nathanielguo.github.io/post/tantanipad">
         </link>
         <updated>2019-04-01T10:20:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[购买使用 iPhone 8 Plus 的感受]]></title>
+        <id>https://nathanielguo.github.io/post/gou-mai-shi-yong-iphone-8-plus-de-gan-shou</id>
+        <link href="https://nathanielguo.github.io/post/gou-mai-shi-yong-iphone-8-plus-de-gan-shou">
+        </link>
+        <updated>2017-10-06T13:42:11.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用 iPad Pro 10.5 一月总结]]></title>
