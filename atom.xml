@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-07T04:34:52.431Z</updated>
+    <updated>2019-07-08T07:00:51.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第四天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-tian">
+        </link>
+        <updated>2019-07-07T11:59:18.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第三天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-tian</id>
@@ -72,12 +79,5 @@
         <link href="https://nathanielguo.github.io/post/liao-liao-iphone-x-de-jin-he-tui">
         </link>
         <updated>2018-01-29T14:56:45.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[购买使用 iPhone 8 Plus 的感受]]></title>
-        <id>https://nathanielguo.github.io/post/gou-mai-shi-yong-iphone-8-plus-de-gan-shou</id>
-        <link href="https://nathanielguo.github.io/post/gou-mai-shi-yong-iphone-8-plus-de-gan-shou">
-        </link>
-        <updated>2017-10-06T13:42:11.000Z</updated>
     </entry>
 </feed>
