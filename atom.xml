@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-10T00:53:19.321Z</updated>
+    <updated>2019-07-10T07:22:20.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第七天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-qi-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-qi-tian">
+        </link>
+        <updated>2019-07-10T15:21:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第六天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-liu-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-liu-tian">
+        </link>
+        <updated>2019-07-09T15:21:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第五天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-wu-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-wu-tian">
+        </link>
+        <updated>2019-07-08T14:20:39.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第四天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-tian</id>
@@ -58,26 +79,5 @@
         <link href="https://nathanielguo.github.io/post/tantanipad">
         </link>
         <updated>2019-04-01T10:20:41.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学生选购「MacBook 系列电脑」指南]]></title>
-        <id>https://nathanielguo.github.io/post/xue-sheng-xuan-gou-macbook-xi-lie-dian-nao-zhi-nan</id>
-        <link href="https://nathanielguo.github.io/post/xue-sheng-xuan-gou-macbook-xi-lie-dian-nao-zhi-nan">
-        </link>
-        <updated>2018-07-25T15:01:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 交互的改变]]></title>
-        <id>https://nathanielguo.github.io/post/iphone-jiao-hu-de-gai-bian</id>
-        <link href="https://nathanielguo.github.io/post/iphone-jiao-hu-de-gai-bian">
-        </link>
-        <updated>2018-05-31T10:11:44.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊 iPhone X 的进和退]]></title>
-        <id>https://nathanielguo.github.io/post/liao-liao-iphone-x-de-jin-he-tui</id>
-        <link href="https://nathanielguo.github.io/post/liao-liao-iphone-x-de-jin-he-tui">
-        </link>
-        <updated>2018-01-29T14:56:45.000Z</updated>
     </entry>
 </feed>
