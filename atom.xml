@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-10T07:22:20.990Z</updated>
+    <updated>2019-07-14T06:16:51.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第十二天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-er-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-er-tian">
+        </link>
+        <updated>2019-07-15T06:14:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第十一天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-yi-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-yi-tian">
+        </link>
+        <updated>2019-07-14T06:13:51.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第十天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-tian">
+        </link>
+        <updated>2019-07-13T06:13:30.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第九天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-jiu-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-jiu-tian">
+        </link>
+        <updated>2019-07-12T06:13:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第八天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-ba-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-ba-tian">
+        </link>
+        <updated>2019-07-11T06:12:43.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第七天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-qi-tian</id>
@@ -44,40 +79,5 @@
         <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-tian">
         </link>
         <updated>2019-07-06T15:30:36.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第二天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-tian">
-        </link>
-        <updated>2019-07-05T15:36:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回忆——写于2015年2月14日]]></title>
-        <id>https://nathanielguo.github.io/post/hui-yi-xie-yu-2015-nian-2-yue-14-ri</id>
-        <link href="https://nathanielguo.github.io/post/hui-yi-xie-yu-2015-nian-2-yue-14-ri">
-        </link>
-        <updated>2019-07-05T10:44:14.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于我]]></title>
-        <id>https://nathanielguo.github.io/post/about</id>
-        <link href="https://nathanielguo.github.io/post/about">
-        </link>
-        <updated>2019-07-05T10:07:48.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第一天]]></title>
-        <id>https://nathanielguo.github.io/post/2019-7-3</id>
-        <link href="https://nathanielguo.github.io/post/2019-7-3">
-        </link>
-        <updated>2019-07-04T10:37:02.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我接触 Apple 产品四年后，再来谈谈 iPad]]></title>
-        <id>https://nathanielguo.github.io/post/tantanipad</id>
-        <link href="https://nathanielguo.github.io/post/tantanipad">
-        </link>
-        <updated>2019-04-01T10:20:41.000Z</updated>
     </entry>
 </feed>
