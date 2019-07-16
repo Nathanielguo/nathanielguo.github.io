@@ -759,3 +759,7 @@ a {
         margin-left: 350px;
       }
     
+      .post-item .right .feature-container {
+        border-radius: 10px;
+      }
+    
