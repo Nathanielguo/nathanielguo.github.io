@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-17T08:31:28.582Z</updated>
+    <updated>2019-07-17T08:56:28.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第十四天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-si-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-si-tian">
+        </link>
+        <updated>2019-07-17T08:34:56.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="14">14</h1>
+<p>今天的我，终于休息，我可以静下心来，把这些文字发在这里，可以把排版做好，可以把事情捋顺，还可以多想你一会</p>
+<p>在办理入职前，我非常犹豫，我是一个无法拒绝别人的人，也被你锻炼的会有想法，但学不到你的远见，我尽可能的静下心来思考这份工作，值不值得，可不可以做下去</p>
+<p>所以最后的结果是，我决定和公司的老师说清楚我的工作范围，以及我的想法，我需要这样做，不然就会是无休止的各种杂乱的生活，那是很糟糕的</p>
+<p>要谢谢你这几年对我的观念的灌输，虽然我到现在还差了很多，这是我出身和生活环境很难在短时间改变的，你已经做得很好了，你的离开，只能说明我不争气，不够努力</p>
+<p>下午看到你的截图，我的名字，以及没有了我的背景</p>
+<p>不管你做什么，我都很想你，想说你很漂亮很美丽，那样，也就没有什么话题再聊了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第十三天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-13-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-13-tian">
+        </link>
+        <updated>2019-07-16T08:34:11.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第十二天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-er-tian</id>
@@ -69,40 +91,13 @@
         <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-wu-tian">
         </link>
         <updated>2019-07-08T14:20:39.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第四天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-tian">
-        </link>
-        <updated>2019-07-07T11:59:18.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="4">4</h1>
-<p>第四天，可能因为你这两天太忙，很难和你多说两句，但你还能跟我说说话，很欣慰。</p>
-<p>看到你的录取通知书，为你开心和骄傲，总算你实现了自己的目标，最后回到了上海。</p>
-<p>看到你还愿意发我的图在微博，而且得到了那么赞以及你自己的夸奖，很开心。</p>
-<p>我现在在搬到公司的货拉拉上，你在忙，想知道在忙什么，也知道你不方便看手机。</p>
-<p>上学时想赶快工作，要工作时又觉得读书蛮好，优秀的人不太该有这种想法我知道，所以我尽快打消。</p>
-<p>我希望我能努力，想去上海找你，哪怕看到你也觉得安心、欣慰。</p>
-<p>我好想你。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第三天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-tian">
-        </link>
-        <updated>2019-07-06T15:30:36.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="3">3</h1>
-<p>第三天，早上我做了噩梦，很不好的梦。</p>
-<p>梦醒后很难受，我知道梦里有你，但具体是什么已经记不得了，很难过。</p>
-<p>我们还算是正常聊着天，但话题变得没之前多了。也许是我太敏感，也许和之前一样。</p>
-<p>我们还会一起聊事情，互相交换，你永远那么睿智。</p>
-<p>我开始整理素材准备工作，也重新弄好了博客，生活还得继续。</p>
-<p>我得努力，不要差的太多，还要追赶。</p>
-<p>很想你。</p>
-<p>2019.7.6</p>
+        <content type="html"><![CDATA[<h1 id="5">5</h1>
+<p>你离开了五天了<br>
+今天我也开始入职工作了</p>
+<p>工作很忙，但我还会顾着和你聊天，就像之前一样</p>
+<p>还记得你考研那段时间，我在实习，虽然我们两边都很忙，但还是有一句没一句的互相分享，那段时间虽然漫长，但能够让我一直坚持着的、满怀期待的，因为度过那段时间，就可以见到你了</p>
+<p>虽然我一直准备着你离开这里，离开我们的生活，但我没有准备好，在你离开的时候，我知道我做不到。</p>
+<p>今天是第五天，很难熬，我在公司继续做事，让我有一种回到之前你复习时候的错觉。</p>
 ]]></content>
     </entry>
 </feed>
