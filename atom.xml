@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-17T10:16:44.971Z</updated>
+    <updated>2019-07-17T11:36:30.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,25 +10,6 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
-    <entry>
-        <title type="html"><![CDATA[text]]></title>
-        <id>https://nathanielguo.github.io/post/text</id>
-        <link href="https://nathanielguo.github.io/post/text">
-        </link>
-        <updated>2019-07-17T10:09:00.000Z</updated>
-        <content type="html"><![CDATA[ <style type="text/css">
- .user-card {padding: 32px; box-shadow: 0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)! important;tex align: center; margin: 32px; border-radius 8px; background: #ffe8cc;}
- .user-img{ border-radius: 50% !important; width: 80px; margin: 24px auto; display: inline-block;}
- .username {font-size: 20px;}
- .description {margin: 32px 0; font-size: 14px; color: #ffa94d;}
- </style>
- <div class="user-card"/>
- <img class="user-img"src="http://ww1.sinaimg.cn/mw690/a75f40a6ly1g52zkekw6yj22fj2fjqq0.jpg" />
-	<div class="username">Nathaniel Guo</div>
- <div class="description">Designer | Photographer | Blogger</div>
- </div>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第十四天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-si-tian</id>
@@ -161,6 +142,21 @@
 <p>我不知道生活还会为我带来什么，还会让我失去什么</p>
 <p>不敢期待，不敢想象</p>
 <p>如果你在，就很好；如果你不在，我不知道</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第五天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-wu-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-wu-tian">
+        </link>
+        <updated>2019-07-08T14:20:39.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="5">5</h1>
+<p>你离开了五天了<br>
+今天我也开始入职工作了</p>
+<p>工作很忙，但我还会顾着和你聊天，就像之前一样</p>
+<p>还记得你考研那段时间，我在实习，虽然我们两边都很忙，但还是有一句没一句的互相分享，那段时间虽然漫长，但能够让我一直坚持着的、满怀期待的，因为度过那段时间，就可以见到你了</p>
+<p>虽然我一直准备着你离开这里，离开我们的生活，但我没有准备好，在你离开的时候，我知道我做不到。</p>
+<p>今天是第五天，很难熬，我在公司继续做事，让我有一种回到之前你复习时候的错觉。</p>
 ]]></content>
     </entry>
 </feed>
