@@ -1,37 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nathanielguo.github.io</id>
-    <title>Nathaniel Guo</title>
-    <updated>2019-07-21T12:58:53.227Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://nathanielguo.github.io"/>
-    <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
-    <subtitle>我在这里写故事</subtitle>
-    <logo>https://nathanielguo.github.io/images/avatar.png</logo>
-    <icon>https://nathanielguo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Nathaniel Guo</rights>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十八天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-18-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-18-tian">
-        </link>
-        <updated>2019-07-21T15:22:24.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="18">18</h1>
-<p>没想到今天可以一觉睡到中午，今天食堂的午饭和晚饭都很好吃，粉蒸肉、牛蛙、水煮肉片，我想你看到也会很想吃吧</p>
-<p>下午我去了教堂，这是你走以后我第一次去，上周很想去可是实在没办法，我坐在了我常坐的位置，没记错的话也是我们上次上上次一起坐的位置，我旁边没有人，我会觉得你就在我旁边，因为这个位置空出来了，感觉你在</p>
-<p>我做了祷告，为你为我为我们为家人为事情为工作</p>
-<p>我知道你白天在忙，悄咪咪的看了你手机的定位，知道你去了宜家，然后看到了你住的位置，我大概知道就在那里了，后面会悄咪咪去看你的，我控制不住自己想你</p>
-<p>还好你在晚些时候回复了我，还算顺利我就安心一些，明天你就要开始新的学习生活了</p>
-<p>还是希望你一切顺利，加油，我也会加油！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Tech」PDF]]></title>
-        <id>https://nathanielguo.github.io/post/pdf</id>
-        <link href="https://nathanielguo.github.io/post/pdf">
-        </link>
-        <updated>2019-07-21T12:49:45.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="引言">引言</h2>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>「Tech」PDF | Nathaniel Guo</title>
+<meta name="description" content="我在这里写故事">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://nathanielguo.github.io/favicon.ico?v=1563713916415">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://nathanielguo.github.io/styles/main.css">
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143382669-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143382669-1');
+</script>
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://nathanielguo.github.io">
+        <img src="https://nathanielguo.github.io/images/avatar.png?v=1563713916415" class="site-logo">
+        <h1 class="site-title">Nathaniel Guo</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            Blog
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            About
+          </a>
+        
+      
+        
+          <a href="https://nathanielguo.github.io/tag/Story/" class="site-nav">
+            Nathaniel &amp; Jvune
+          </a>
+        
+      
+        
+          <a href="https://instagram.com/nathanielguo" class="site-nav" target="_blank">
+            Instagram
+          </a>
+        
+      
+        
+          <a href="https://weibo.com/222022234/" class="site-nav" target="_blank">
+            Weibo
+          </a>
+        
+      
+        
+          <a href="https://www.linkedin.com/in/nathaniel-guo/" class="site-nav" target="_blank">
+            LinkedIn
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      我在这里写故事
+    </div>
+    <div class="site-footer">
+      Copyright 2019 NathanielGuo.All Rights Reserved. | <a class="rss" href="https://nathanielguo.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">「Tech」PDF</h2>
+            <div class="post-date">2019-07-21</div>
+            
+              <div class="feature-container" style="background-image: url('https://i.loli.net/2019/07/21/5d34615a45e8559664.jpg')">
+              </div>
+            
+            <div class="post-content">
+              <h2 id="引言">引言</h2>
 <p><a href="https://en.wikipedia.org/wiki/PDF" title="PDF">PDF</a> 是我们打交道最多的文件格式之一。提到这个格式，即使是对技术并不熟悉的用户，也能说出「通用性好」、「格式不会乱变」这些优点。但同时，PDF 也是让我们感到困惑最多的格式之一，因为与 Word 文档等其他常见办公软件格式相比，PDF 似乎有着太多的「怪癖」，例如复制文字困难、几乎没法编辑等等。PDF 软件数量繁多、质量良莠不齐的现状，也进一步让很多用户无法正确理解和使用 PDF。</p>
 <p>然而，事实并非如此。这些问题大多不是 PDF 格式的「缺陷」，而是因为我们<strong>在观念上把 PDF 当成了和其他办公文档格式相近的东西</strong>，并因此期待 PDF 也具有和后者相似的功能和特征。</p>
 <p>尽管 PDF 格式和 Word 格式在实际用途上有诸多重叠之处，但那只是表面现象。从技术角度看，两种格式之间的差异要远远大于 Word 文档和网页之间的差异，甚至还要大于 Word 文档和 Excel 表格之间的差异。</p>
@@ -211,122 +300,55 @@ Foxit 旗下的 PDF 专题网站。页面设计很老旧，但是能找到不少
 一个非常有意思的 GitHub 仓库，里面提供了大量手敲代码制成的 PDF，用文本编辑器打开按照里面的注释就可以像玩游戏一样做各种「实验」，对理解 PDF 格式非常有帮助。</p>
 </li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十七天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-qi-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-qi-tian">
-        </link>
-        <updated>2019-07-20T15:33:31.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="17">17</h1>
-<p>今天我们没怎么聊，因为你要去见你闺蜜和朋友，也很久没有见她们了</p>
-<p>今天是7月第一次周末，忙完后会感觉到有些空虚，这种并不是我不想去做事情，而是感觉忙碌过后，我回到我该有的自己的生活时，发现没什么事情也没什么人，就只剩下自己</p>
-<p>你考研的这段时间，每每当我闲下来的时候，我都知道有你在，我利用空闲的时间提高自己就可以了，所以哪怕是自己的时间也会比较容易度过。但这次是你走了，突然什么都空了下来，很难适应，我也不想接受这种方式</p>
-<p>你离开的第17天，我依然无法告诉自己说你已经离开了，我们都有自己的生活了，我做不到，我还是守在你身边的那个不成熟的男生吧</p>
-<p>下午帮我哥弄了微博抽奖，好像这五年他没什么很大的变化吧，突然发现的</p>
-<p>和爸妈打了视频，FaceTime聊了有几个小时，很久没和他们说话了，也算是把欠他们的还一还</p>
-<p>至于工作，我想我还是会在上班后和领导说清楚，不然的话，就像你说的，还是可以挣些快钱，也许是个好主意吧，晚上和家里人说的时候，他们也没什么反对或者怎样，我知道他们也都是想让我自己过得好，让我自己选择</p>
-<p>感谢父母，还有好像还陪在我身边的你</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十六天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-liu-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-liu-tian">
-        </link>
-        <updated>2019-07-19T15:11:44.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="16">16</h1>
-<p>今天是你离开后我第一次过星期五，周末要到了</p>
-<p>白天忙完工作，你在回上海的路上，7月19号，再过三天你就要开学报道了</p>
-<p>我们像最近往常一样平常，只是少了些表情，少了些笑语，彭姐的事情让我们聊天变多了，但事情结束后，聊天又恢复了之前，我没有习惯这种方式，但是不得不去接受</p>
-<p>我还是会在你身边守护你，起码在心里也会为你祷告</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十五天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-wu-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-wu-tian">
-        </link>
-        <updated>2019-07-18T15:47:20.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="15">15</h1>
-<p>今天纠结了一天工作，最后没有办入职，晚上跟部门里日语区经理聊了天，他也很照顾我，之前也会什么都跟我讲</p>
-<p>我犹豫不入职的原因，是因为就目前来看，之后主要的工作内容可能与我职业规划和方向以及我擅长的部分有很大偏差，不会打算再下一份工作做市场销售的工作，接待也让我感觉到人会变得浮躁。我不拒绝公司同事忙不过来的情况下大家互相帮助，但如果让我主要往这个方向靠我确实不会考虑</p>
-<p>我是一个不太会在工作任务上拒绝别人的人，所以大家让我做什么我肯定尽量都做，也许是这个缘故，让老师误认为我很想做什么，其实不是</p>
-<p>今天跟他聊了天，也把自己想法说了说，他也给了我些建议，所以之后我是不是最后要留下来还是怎样，最近应该就会有个结果吧</p>
-<p>不管怎样，我的方向还是设计和运营，产品相关，这是我喜欢的，擅长的，不会变。</p>
-<p>谢谢你陪在我身边，还帮我出谋划策。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十四天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-si-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-si-tian">
-        </link>
-        <updated>2019-07-17T08:34:56.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="14">14</h1>
-<p>今天的我，终于休息，我可以静下心来，把这些文字发在这里，可以把排版做好，可以把事情捋顺，还可以多想你一会</p>
-<p>在办理入职前，我非常犹豫，我是一个无法拒绝别人的人，也被你锻炼的会有想法，但学不到你的远见，我尽可能的静下心来思考这份工作，值不值得，可不可以做下去</p>
-<p>所以最后的结果是，我决定和公司的老师说清楚我的工作范围，以及我的想法，我需要这样做，不然就会是无休止的各种杂乱的生活，那是很糟糕的</p>
-<p>要谢谢你这几年对我的观念的灌输，虽然我到现在还差了很多，这是我出身和生活环境很难在短时间改变的，你已经做得很好了，你的离开，只能说明我不争气，不够努力</p>
-<p>下午看到你的截图，我的名字，以及没有了我的背景</p>
-<p>不管你做什么，我都很想你，想说你很漂亮很美丽，那样，也就没有什么话题再聊了</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十三天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-13-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-13-tian">
-        </link>
-        <updated>2019-07-16T15:34:11.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="13">13</h1>
-<p>今天是漫长的一天，还好有你在，我不会那么慌乱和不安</p>
-<p>我终于熬到接待的最后一天，一切看起来都很顺利，我很努力，察言观色，眼疾手快，尽量都不出错</p>
-<p>最后送客人离开，还是同样的机场，一个我都不想再去的地方，出了岔子</p>
-<p>虽不是我的问题和原因，但我也很怕把事情搞砸，两个小时，最后送走了客人，和你讲了，你也会在对面帮我，会关心我</p>
-<p>谢谢你，让我很安心，事情做完了</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十二天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-er-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-er-tian">
-        </link>
-        <updated>2019-07-15T15:14:10.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="12">12</h1>
-<p>今天要和老板住一间，会有点害怕，什么事情都不敢做，不能放松，不能随便说话。这些都不是我想要的方式，可我现在在做了，总有一天我要学会拒绝，要会做选择</p>
-<p>你教了我很多，能不能都学到，是我的问题，现在会回想你很多话，我会尽量按照你的逻辑，我觉得那样也许是对的，或者说能让我少犯错</p>
-<p>一切都看似很顺利，希望明天能顺利度过，就可以休息</p>
-<p>看到你没有换头像，松了口气，看到你的头像，很安心，你要一直在就好了，我想好好努力，能看你一眼，就好了</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十一天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-yi-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-yi-tian">
-        </link>
-        <updated>2019-07-14T15:55:51.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="11">11</h1>
-<p>晚上你说你要换头像了，告诉我让我醒过来，不要在这样下去</p>
-<p>也许是我这两天做的有些过分，发了很多我们以前会常发的表情，说了一些你觉得我现在不能再说的话</p>
-<p>我把头埋在被子里，一个人在房间里哭</p>
-<p>到现在还不知道，我们分开的原因就是毕业要分开</p>
-<p>我还是不能接受</p>
-<p>我总是翻看着我们的照片，太多了，太多没有修的，没有发出来的，太多有意义的故事，和你在一起的生活</p>
-<p>不知道之前是梦，还是现在是梦</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-tian">
-        </link>
-        <updated>2019-07-13T06:13:30.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="10">10</h1>
-<p>今天是忙于接待的生活，不是我想要的，但想把这些分享给你，哪怕你不承认我，就算不承认，我也想给你讲故事</p>
-<p>因为不想和你断了联系，很想你</p>
-<p>没想到今天会议，我却带客人去动物园，去做按摩，很荒唐吧，这样的生活很浮躁，应该不会之后再想做，会讲出来，不能这样下去</p>
-<p>可能我离不开你是因为你懂的多，你可以帮我分析，我不知道，也许是吧，如果这样的话，你确实很想离开我吧，所以先独立，再和你聊天，也许就好了吧，我也不知道</p>
-]]></content>
-    </entry>
-</feed>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://nathanielguo.github.io/tag/Tech" class="tag">
+                    Tech
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-qi-tian">
+                  <h3 class="post-title">
+                    你离开后的第十七天
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+  </body>
+</html>
