@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-22T07:41:13.690Z</updated>
+    <updated>2019-07-23T12:04:06.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -11,12 +11,26 @@
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
     <entry>
+        <title type="html"><![CDATA[你离开后的第二十天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-tian">
+        </link>
+        <updated>2019-07-23T15:03:33.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="20">20</h1>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[你离开后的第十九天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-jiu-tian</id>
         <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-jiu-tian">
         </link>
-        <updated>2019-07-22T07:40:55.000Z</updated>
+        <updated>2019-07-22T15:58:55.000Z</updated>
         <content type="html"><![CDATA[<h1 id="19">19</h1>
+<p>这是你离开后的第19天，今天你去医院报到，要住进新的宿舍，要认识新的室友，这几天都在为你担心，或者说是害怕，蛮害怕你有了新生活就不理我，事实上，确实你今天没怎么理我</p>
+<p>晚上终于等到你的消息，虽然我白天也有看你的定位，知道你应该在忙，在收拾，但你的回复给我了很大的安心</p>
+<p>等你安顿好了，我也会把我的工作处理好，生活理顺</p>
+<p>会担心你和新室友们的关系，会担心你和同门的关系，因为我知道你是什么样子的人，知道你平时是怎样和人相处怎么样和人说话的，但到了社会到了新的生活，应该你没我经验要多，怕你生活中会有很多吃亏或者不愉快的事，因为你的性格和观念，很容易和别人有不同的地方</p>
+<p>还好今天都比较顺利的，6个人的宿舍肯定让你觉得有点挤，希望你都一切顺利，为你祷告</p>
 ]]></content>
     </entry>
     <entry>
@@ -307,22 +321,6 @@ Foxit 旗下的 PDF 专题网站。页面设计很老旧，但是能找到不少
 <p>你教了我很多，能不能都学到，是我的问题，现在会回想你很多话，我会尽量按照你的逻辑，我觉得那样也许是对的，或者说能让我少犯错</p>
 <p>一切都看似很顺利，希望明天能顺利度过，就可以休息</p>
 <p>看到你没有换头像，松了口气，看到你的头像，很安心，你要一直在就好了，我想好好努力，能看你一眼，就好了</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十一天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-yi-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-yi-tian">
-        </link>
-        <updated>2019-07-14T15:55:51.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="11">11</h1>
-<p>晚上你说你要换头像了，告诉我让我醒过来，不要在这样下去</p>
-<p>也许是我这两天做的有些过分，发了很多我们以前会常发的表情，说了一些你觉得我现在不能再说的话</p>
-<p>我把头埋在被子里，一个人在房间里哭</p>
-<p>到现在还不知道，我们分开的原因就是毕业要分开</p>
-<p>我还是不能接受</p>
-<p>我总是翻看着我们的照片，太多了，太多没有修的，没有发出来的，太多有意义的故事，和你在一起的生活</p>
-<p>不知道之前是梦，还是现在是梦</p>
 ]]></content>
     </entry>
 </feed>
