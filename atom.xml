@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-25T13:29:28.016Z</updated>
+    <updated>2019-07-26T00:31:14.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第二十三天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-san-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-san-tian">
+        </link>
+        <updated>2019-07-26T15:30:48.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="23">23</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第二十二天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-er-tian</id>
@@ -315,21 +324,6 @@ Foxit 旗下的 PDF 专题网站。页面设计很老旧，但是能找到不少
 <p>今天跟他聊了天，也把自己想法说了说，他也给了我些建议，所以之后我是不是最后要留下来还是怎样，最近应该就会有个结果吧</p>
 <p>不管怎样，我的方向还是设计和运营，产品相关，这是我喜欢的，擅长的，不会变。</p>
 <p>谢谢你陪在我身边，还帮我出谋划策。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十四天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-si-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-si-tian">
-        </link>
-        <updated>2019-07-17T08:34:56.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="14">14</h1>
-<p>今天的我，终于休息，我可以静下心来，把这些文字发在这里，可以把排版做好，可以把事情捋顺，还可以多想你一会</p>
-<p>在办理入职前，我非常犹豫，我是一个无法拒绝别人的人，也被你锻炼的会有想法，但学不到你的远见，我尽可能的静下心来思考这份工作，值不值得，可不可以做下去</p>
-<p>所以最后的结果是，我决定和公司的老师说清楚我的工作范围，以及我的想法，我需要这样做，不然就会是无休止的各种杂乱的生活，那是很糟糕的</p>
-<p>要谢谢你这几年对我的观念的灌输，虽然我到现在还差了很多，这是我出身和生活环境很难在短时间改变的，你已经做得很好了，你的离开，只能说明我不争气，不够努力</p>
-<p>下午看到你的截图，我的名字，以及没有了我的背景</p>
-<p>不管你做什么，我都很想你，想说你很漂亮很美丽，那样，也就没有什么话题再聊了</p>
 ]]></content>
     </entry>
 </feed>
