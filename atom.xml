@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-26T00:31:14.157Z</updated>
+    <updated>2019-07-28T04:30:26.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第二十五天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-wu-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-wu-tian">
+        </link>
+        <updated>2019-07-28T04:30:08.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="25">25</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第二十四天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-de-di-er-shi-si-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-de-di-er-shi-si-tian">
+        </link>
+        <updated>2019-07-28T04:29:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="24">24</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第二十三天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-san-tian</id>
@@ -296,34 +314,6 @@ Foxit 旗下的 PDF 专题网站。页面设计很老旧，但是能找到不少
 <p>和爸妈打了视频，FaceTime聊了有几个小时，很久没和他们说话了，也算是把欠他们的还一还</p>
 <p>至于工作，我想我还是会在上班后和领导说清楚，不然的话，就像你说的，还是可以挣些快钱，也许是个好主意吧，晚上和家里人说的时候，他们也没什么反对或者怎样，我知道他们也都是想让我自己过得好，让我自己选择</p>
 <p>感谢父母，还有好像还陪在我身边的你</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十六天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-liu-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-liu-tian">
-        </link>
-        <updated>2019-07-19T15:11:44.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="16">16</h1>
-<p>今天是你离开后我第一次过星期五，周末要到了</p>
-<p>白天忙完工作，你在回上海的路上，7月19号，再过三天你就要开学报道了</p>
-<p>我们像最近往常一样平常，只是少了些表情，少了些笑语，彭姐的事情让我们聊天变多了，但事情结束后，聊天又恢复了之前，我没有习惯这种方式，但是不得不去接受</p>
-<p>我还是会在你身边守护你，起码在心里也会为你祷告</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十五天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-wu-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-wu-tian">
-        </link>
-        <updated>2019-07-18T15:47:20.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="15">15</h1>
-<p>今天纠结了一天工作，最后没有办入职，晚上跟部门里日语区经理聊了天，他也很照顾我，之前也会什么都跟我讲</p>
-<p>我犹豫不入职的原因，是因为就目前来看，之后主要的工作内容可能与我职业规划和方向以及我擅长的部分有很大偏差，不会打算再下一份工作做市场销售的工作，接待也让我感觉到人会变得浮躁。我不拒绝公司同事忙不过来的情况下大家互相帮助，但如果让我主要往这个方向靠我确实不会考虑</p>
-<p>我是一个不太会在工作任务上拒绝别人的人，所以大家让我做什么我肯定尽量都做，也许是这个缘故，让老师误认为我很想做什么，其实不是</p>
-<p>今天跟他聊了天，也把自己想法说了说，他也给了我些建议，所以之后我是不是最后要留下来还是怎样，最近应该就会有个结果吧</p>
-<p>不管怎样，我的方向还是设计和运营，产品相关，这是我喜欢的，擅长的，不会变。</p>
-<p>谢谢你陪在我身边，还帮我出谋划策。</p>
 ]]></content>
     </entry>
 </feed>
