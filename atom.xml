@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-07-28T04:40:05.801Z</updated>
+    <updated>2019-07-29T02:12:08.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第二十六天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-liu-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-liu-tian">
+        </link>
+        <updated>2019-07-29T15:06:38.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="26">26</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第二十五天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-wu-tian</id>
@@ -309,23 +318,6 @@ Foxit 旗下的 PDF 专题网站。页面设计很老旧，但是能找到不少
 一个非常有意思的 GitHub 仓库，里面提供了大量手敲代码制成的 PDF，用文本编辑器打开按照里面的注释就可以像玩游戏一样做各种「实验」，对理解 PDF 格式非常有帮助。</p>
 </li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第十七天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-qi-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-shi-qi-tian">
-        </link>
-        <updated>2019-07-20T15:33:31.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="17">17</h1>
-<p>今天我们没怎么聊，因为你要去见你闺蜜和朋友，也很久没有见她们了</p>
-<p>今天是7月第一次周末，忙完后会感觉到有些空虚，这种并不是我不想去做事情，而是感觉忙碌过后，我回到我该有的自己的生活时，发现没什么事情也没什么人，就只剩下自己</p>
-<p>你考研的这段时间，每每当我闲下来的时候，我都知道有你在，我利用空闲的时间提高自己就可以了，所以哪怕是自己的时间也会比较容易度过。但这次是你走了，突然什么都空了下来，很难适应，我也不想接受这种方式</p>
-<p>你离开的第17天，我依然无法告诉自己说你已经离开了，我们都有自己的生活了，我做不到，我还是守在你身边的那个不成熟的男生吧</p>
-<p>下午帮我哥弄了微博抽奖，好像这五年他没什么很大的变化吧，突然发现的</p>
-<p>和爸妈打了视频，FaceTime聊了有几个小时，很久没和他们说话了，也算是把欠他们的还一还</p>
-<p>至于工作，我想我还是会在上班后和领导说清楚，不然的话，就像你说的，还是可以挣些快钱，也许是个好主意吧，晚上和家里人说的时候，他们也没什么反对或者怎样，我知道他们也都是想让我自己过得好，让我自己选择</p>
-<p>感谢父母，还有好像还陪在我身边的你</p>
 ]]></content>
     </entry>
 </feed>
