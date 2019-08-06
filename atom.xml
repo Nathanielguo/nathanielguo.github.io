@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-08-05T12:19:46.045Z</updated>
+    <updated>2019-08-06T02:25:51.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第三十四天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-si-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-si-tian">
+        </link>
+        <updated>2019-08-06T13:25:20.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="34">34</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第三十三天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-san-tian</id>
@@ -141,23 +150,6 @@
 <p>最近重庆温度很高，38度以上肯定是有的，我看了你那边的天气，也差不多。我还记得四年前暑假我去你那里，也很热，要注意身体不要上火了哦</p>
 <p>今天你在家里，终于五年后你回到了属于你的地方，可以周末回家，在家里就不会想家了吧</p>
 <p>很想你，但你最后回了家，我的使命结束了吗？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第二十四天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-de-di-er-shi-si-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-de-di-er-shi-si-tian">
-        </link>
-        <updated>2019-07-27T15:29:36.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="24">24</h1>
-<p>今天温度36度，走到大学城的时候38度，今天要去大学城剪头发，上次剪头没记错的话是6月20几号，在拍毕业照之前，你和我一起，我们那天是不是也看了电影，吃了东西，年糕火锅是不是，很多事都好像在昨天</p>
-<p>我走过我们一起走过的路，整个城市，我们都一起走过，无论我走到哪里，都会想到你，想到我们手牵手在一起的情景。你走了，这些画面就在我走过的眼前出现。</p>
-<p>还记得上次剪头发你坐在理发店沙发上等我，今天我剪完头发也在那里坐了一下，觉得我们还在一起</p>
-<p>最近看到很多人在推《哪吒》好像是一部蛮不错的国产动画3D电影，还记得我们上次也一起看国产动画，大鱼海棠？我记得还有一部，都是和你一起看的</p>
-<p>今天问你要不要看，你肯定是懒得出门，我去了我们前几年常去的电影院，坐在我们坐过的位置上，看电影，会想到你</p>
-<p>电影很好看，想推荐给你，感情戏很多，很触动观众</p>
-<p>觉得你还在，可是你会经常提醒我，我怕你有一天就和我断了联系，不敢去想，觉得生活就真的没希望了</p>
-<p>明天相机就到了，但我会先去教堂，希望都顺利吧，你也是</p>
 ]]></content>
     </entry>
 </feed>
