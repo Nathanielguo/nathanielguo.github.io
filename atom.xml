@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-08-07T00:29:34.898Z</updated>
+    <updated>2019-08-08T11:19:00.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第三十六天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-liu-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-liu-tian">
+        </link>
+        <updated>2019-08-08T11:18:39.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="36">36</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第三十五天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-wu-tian</id>
@@ -132,20 +141,6 @@
 <p>今天看了防潮箱，还是蛮管用的，湿度已经降低到30%了，相比较60-70%，这次应该会好很多很多，这次换的设备都比较贵重，一定要好好用，发挥价值，也想自己多挣点钱，以及提高能力</p>
 <p>下班前帮你搞电脑，想到你也要开题、查文献、写文章了，搞学术是读研和毕业的必经之路，也是在医院提升职称的重要抵住，你要沉的住心，多看文献多发文章，肯定会成为国医大师的！</p>
 <p>晚上又突然不理我了，应该是电脑好了就把我放在一边了，在给你弄电脑的时候，仿佛回到了一年前，什么都我帮你搞好，现在虽说你也需要，但不会那么依赖我了，我明白你的意思，但我不想那么做，你走的那个瞬间，我知道我爱你，很需要你。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第二十六天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-liu-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-er-shi-liu-tian">
-        </link>
-        <updated>2019-07-29T15:06:38.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="26">26</h1>
-<p>又是新的一周开始，又有很多工作要做，发现正式入职后，其实只要没有紧急事件，工作还算相对舒适吧，也许是欧洲经理还没回来的缘故，我想这次沟通之后应该也不会太为难我</p>
-<p>今天虽然忙碌，但都完成了工作，你那边应该也很顺利吧</p>
-<p>看了天气终于要降温了，今年应该是最好过的一个夏天了吧</p>
-<p>晚上回到宿舍，发现那帮专科生买了显示器，也是晕厥，感觉这些孩子和我以前的室友非常像吧，我觉得食物链下端的人都是这样的，自己又何尝不是，也好不到哪里去，所以要更加努力吧！</p>
-<p>今天的封面照片是你去年十一月来重庆的合照，那个时候你很忙，忙着复习到最后阶段，来确认考场，真想回到那之前，我们都很好。</p>
 ]]></content>
     </entry>
 </feed>
