@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-08-20T14:52:51.016Z</updated>
+    <updated>2019-08-20T14:54:53.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开后的第四十八天]]></title>
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-ba-tian</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-ba-tian">
+        </link>
+        <updated>2019-08-20T14:53:04.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="48">48</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第四十七天]]></title>
         <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-qi-tian</id>
@@ -98,20 +107,6 @@
 <p>下午一个人去了豪客来，之前我们一起去了两次，蛮开心的回忆，觉得他家做的还行，主要性价比很高，吃饭比较划算，我很久没吃水果，这也算是补充了水果</p>
 <p>晚上回来修图，有三四张满意的还是比较开心，明天再试试接片，估计效果不好</p>
 <p>今天看到你试衣服，你也帮我看了两件，像是回到以前，尽管现在不能说很多话，但和你这样还是蛮开心的</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你离开后的第三十八天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-ba-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-ba-tian">
-        </link>
-        <updated>2019-08-10T08:42:05.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="38">38</h1>
-<p>今天真是一个收获的日子，我拍了很多照片，尽管时间不长</p>
-<p>我去了金山意库，和我想的不一样，但还是很棒，去了一家店喝了南瓜汁，可能是我最近喝到最好喝的饮料，里面环境很好，但人多的时候我还是有点怯懦拿相机拍照，直到等到五点以后，看到太阳变黄，光线很好的时候开始拍，拍到很多画面，在一个店里拍了很多图，可以做室内拍摄的样片，是很棒的</p>
-<p>总体今天收获很多，用iPad就把图都修了，慢慢发，要找到自己的归属感和拍照的信心</p>
-<p>是一个蛮难的路。但作为爱好和特长以及副业，必须要一步步来了</p>
-<p>晚上听你说我拍的还可以的时候，很欣慰</p>
 ]]></content>
     </entry>
 </feed>
