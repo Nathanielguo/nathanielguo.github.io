@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nathanielguo.github.io</id>
     <title>Nathaniel Guo</title>
-    <updated>2019-08-20T15:30:38.294Z</updated>
+    <updated>2020-03-02T07:02:28.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nathanielguo.github.io"/>
     <link rel="self" href="https://nathanielguo.github.io/atom.xml"/>
     <subtitle>我在这里写故事</subtitle>
     <logo>https://nathanielguo.github.io/images/avatar.png</logo>
     <icon>https://nathanielguo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Nathaniel Guo</rights>
+    <rights>All rights reserved 2020, Nathaniel Guo</rights>
     <entry>
         <title type="html"><![CDATA[你离开后的第四十八天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-ba-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-ba-tian">
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-ba-tian/</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-ba-tian/">
         </link>
         <updated>2019-08-20T14:53:04.000Z</updated>
         <content type="html"><![CDATA[<h1 id="48">48</h1>
@@ -26,8 +26,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第四十七天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-qi-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-qi-tian">
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-qi-tian/</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-qi-tian/">
         </link>
         <updated>2019-08-19T01:52:54.000Z</updated>
         <content type="html"><![CDATA[<h1 id="47">47</h1>
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第四十六天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-liu-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-liu-tian">
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-liu-tian/</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-liu-tian/">
         </link>
         <updated>2019-08-18T01:52:15.000Z</updated>
         <content type="html"><![CDATA[<h1 id="46">46</h1>
@@ -50,8 +50,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第四十五天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-wu-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-wu-tian">
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-wu-tian/</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-wu-tian/">
         </link>
         <updated>2019-08-17T01:51:54.000Z</updated>
         <content type="html"><![CDATA[<h1 id="45">45</h1>
@@ -64,8 +64,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第四十四天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-si-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-si-tian">
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-si-tian/</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-si-tian/">
         </link>
         <updated>2019-08-16T01:51:30.000Z</updated>
         <content type="html"><![CDATA[<h1 id="44">44</h1>
@@ -78,8 +78,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第四十三天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-san-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-san-tian">
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-san-tian/</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-san-tian/">
         </link>
         <updated>2019-08-15T01:13:29.000Z</updated>
         <content type="html"><![CDATA[<h1 id="43">43</h1>
@@ -91,8 +91,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第四十二天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-er-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-er-tian">
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-er-tian/</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-er-tian/">
         </link>
         <updated>2019-08-14T01:13:06.000Z</updated>
         <content type="html"><![CDATA[<h1 id="42">42</h1>
@@ -102,8 +102,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第四十一天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-yi-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-yi-tian">
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-yi-tian/</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-yi-tian/">
         </link>
         <updated>2019-08-13T01:12:42.000Z</updated>
         <content type="html"><![CDATA[<h1 id="41">41</h1>
@@ -113,8 +113,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第四十天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-tian">
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-tian/</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-si-shi-tian/">
         </link>
         <updated>2019-08-12T08:43:01.000Z</updated>
         <content type="html"><![CDATA[<h1 id="40">40</h1>
@@ -125,8 +125,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你离开后的第三十九天]]></title>
-        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-jiu-tian</id>
-        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-jiu-tian">
+        <id>https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-jiu-tian/</id>
+        <link href="https://nathanielguo.github.io/post/ni-chi-kai-hou-de-di-san-shi-jiu-tian/">
         </link>
         <updated>2019-08-11T08:42:32.000Z</updated>
         <content type="html"><![CDATA[<h1 id="39">39</h1>
